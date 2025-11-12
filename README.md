@@ -29,6 +29,7 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
 
 - **SQL - Structured Query Language**
   - [SQL Full Course For Data Engineers](https://youtu.be/YimMzb0mHkI?si=sfoOh5O9m5lH_OEI)
+  - [Spark SQL Data Engineers](https://youtu.be/b0TCqhP2P7I?si=CKncuGMtqW2lghmt)
 
 
 ## Module 2: Data Engineering Building Blocks
@@ -88,6 +89,7 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
   - [Databricks Lakeflow Jobs and Workflows](https://youtu.be/uNOQTmyeh3k?si=dHL5ZUd0hAWmO74y)
   - [Databricks SQL Warehouse - Full Course](https://youtu.be/BHfzkuBEiwI?si=Xe_a3JV3--nCG36c)
   - [Databricks Asset Bundles and CICD](https://youtu.be/Yz0pTr7LYG4?si=U6uKB4SDIxtMuc6N)
+  - [Databricks Asset Unity Catalog](https://youtu.be/GJa4YH4j-ic?si=mHXLmJtY6fBU_Dsu)
 
 
 ## Module 7: Microsoft Fabric Tech Stack- The New Player in Data Engineering World
