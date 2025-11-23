@@ -154,6 +154,11 @@ You can pick any CHAPTERS[Videos] of your CHOICE based on your INTERVIEW PREPARA
   - [PySpark Real-Time Scenarios](https://youtu.be/-Gvnm9eS8v8?si=g-dH6K2mQK_Q6dVB)
 
 
+## Moudule 12: AI Bundle for Data Engineering
+  - [Generative AI Full Course](https://youtu.be/9wNJ3IOfkHg?si=8BaMBsurVDnyTLVL)
+  - [LLM Full Course from Scratch](https://youtu.be/X8F9JfCUWrs?si=B3_PULQUiKSDkgN1)
+
+
 ## Very Important Tips to Make the Most Out of This Roadmap
 
 I know that EACH learner has different skills and background. So, you can always SKIP any MODULE or VIDEO that you already know. OR, you can DEEP DIVE into any TOPIC or TECHNOLOGY that interests you the most. The CHOICE is YOURS. This ROADMAP is a STRUCTURED GUIDE and you can always CUSTOMIZE it based on your NEEDS and GOALS. 
